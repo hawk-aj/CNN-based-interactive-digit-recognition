@@ -1,7 +1,3 @@
-a digit recognizer using a deeplearning model trained on the mnist dataset
+An interactive digit recognizer that produces predictions using a Covolutional Neural Network Model trained on the MNIST dataset.
 
-to run you must have python with tensorflow installed
-
-download the folder
-
-run gui.py
+The gui implementation was done using tkinter and presents a space to draw, the program generates a prediction which is then displayed along with the confidence score.
